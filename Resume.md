@@ -36,8 +36,7 @@ C#, Core Java, Javascript, Windows phone development, Android development, J2EE,
 ####Frameworks/ Scripting
 WebApi5.2, OData4.0, JQuery, HTML5/CSS, UNIX bash shell scripting
 ####Other
-Deployment and scaling in Azure, Heroku, Technical & personal mentoring 
-TFS, Git
+Deployment and scaling in Azure, Heroku, Technical & personal mentoring, TFS, Git
 ####GitHub profile:
 [arunsudhir](https://github.com/arunsudhir/)
 ##Education
