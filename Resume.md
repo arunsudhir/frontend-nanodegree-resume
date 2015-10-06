@@ -53,4 +53,4 @@ Thesis: Tree component alternatives to the composite design pattern
 Windows Phone Apps: 
 * [Radio Malayalam](https://www.microsoft.com/en-US/store/Apps/Radio-Malayalam/9NBLGGH09LKV)
 * [Daya Christian Radio](https://www.microsoft.com/en-us/store/apps/daya-christian-radio/9nblggh09lll)
-* {Animals For Kids] (https://www.microsoft.com/en-us/store/apps/animals-for-kids/9nblggh0dpnz)
+* [Animals For Kids] (https://www.microsoft.com/en-us/store/apps/animals-for-kids/9nblggh0dpnz)
