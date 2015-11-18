@@ -5,7 +5,7 @@ Bothell WA 98012
 
 ##Experience
 ####Software Engineer II : 
-######Microsoft Corp.###### *1 Microsoft Way, Redmond, WA, 98052*
+######Microsoft Corp. *1 Microsoft Way, Redmond, WA, 98052*
 ######Onenote Developer Ecosystem Team (12/2012 - present)
 Design & development of the [OneNote Api](http://dev.onenote.com) on top of ASP.NET WebApi and OData4 at 
 the front-end and Azure Queue and blobs for middleware and OneDrive and Bing as our storage/ backends.
@@ -14,16 +14,16 @@ Scaling and perf opimizations for larger RPS. Developing full text search, OData
 Bing Integration etc. Improving performance of API page create. Mentoring new hires and interns. 
 Engineering efficiency improvements for better UT-ability (with Moq and Unity).
 ####Software Development Engineer in Test: 
-######Microsoft Corp.###### *1 Microsoft Way, Redmond, WA, 98052*
+######Microsoft Corp.*1 Microsoft Way, Redmond, WA, 98052*
 ######Microsoft Excel (02/2009 - 12/2012)
 Design and automated testing of Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
 support in Excel with SQL team. Performance driver for all data access features in Excel.
 ####Technical Intern
-######Fidelity Investments###### *4008 Chapel Hill Nelson Hwy, Durham, NC 27709* (05/2008 - 08/2008)
+######Fidelity Investments *4008 Chapel Hill Nelson Hwy, Durham, NC 27709* (05/2008 - 08/2008)
 Converting a legacy struts-based web application to Spring. Delivering enhancemnets to the MAUI middleware layer 
 that supports Fidelity's stock platform. Developing numerous Perl scripts for back-end data massaging. 
 ####Software Engineer
-######Fidelity Investments ###### *Embassy Golf Links Business Park, Off Intermediate Ring Road, Bengaluru, Karnataka 560071, India* (06/2006 - 07/2007) 
+######Fidelity Investments *Embassy Golf Links Business Park, Off Intermediate Ring Road, Bengaluru, Karnataka 560071, India* (06/2006 - 07/2007) 
 Design and development of enhancements to the MAUI middleware platform which is at the backbone of Fidelity's stock
 trading platform. Technologies included core Java, J2EE and Struts.
 ####Programmer Analyst
