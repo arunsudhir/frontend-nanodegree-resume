@@ -29,7 +29,7 @@ that supports Fidelity's stock platform. Developing numerous Perl scripts for ba
 Design and development of enhancements to the MAUI middleware platform which is at the backbone of Fidelity's stock
 trading platform. Technologies included core Java, J2EE and Struts.
 ####Programmer Analyst
-######Cognizant Technology Solutions *#5/535, Old Mahabalipuram Road, Okkiam -Thoraipakkam, Chennai, India * 
+######Cognizant Technology Solutions * #5/535, Old Mahabalipuram Road, Okkiam -Thoraipakkam, Chennai, India 
 ######AT&T Message Processing Division (06/2004 - 07/2006)
 As part of the AT&T client, was involved in automating storage and retrieval of Long Distance Call data using PL/SQL
 stroed procesures, shell scripts and Oracle 9iAS.
@@ -47,10 +47,10 @@ Deployment and scaling in Azure, Heroku, Technical & personal mentoring, TFS, Gi
 ##Education
 
 ####Masters in Computer Science 
-######Virginia Tech###### *Blacksburg, VA 24061* (Aug 2007 - Dec 2008) GPA: 3.9
+######Virginia Tech *Blacksburg, VA 24061* (Aug 2007 - Dec 2008) GPA: 3.9
 Thesis: Tree component alternatives to the composite design pattern
 ###Bachelor of Technology in Electronics & Communication
-######College Of Engineering, Trivandrum, India (Aug 2000 - Apr 2004) GPA: 4.0
+######College Of Engineering *Trivandrum, India* (Aug 2000 - Apr 2004) GPA: 4.0
 
 ##Interests/Projects
 
