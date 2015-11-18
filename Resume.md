@@ -19,15 +19,18 @@ Engineering efficiency improvements for better UT-ability (with Moq and Unity).
 Design and automated testing of Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
 support in Excel with SQL team. Performance driver for all data access features in Excel.
 ####Technical Intern
-######Fidelity Investments *4008 Chapel Hill Nelson Hwy, Durham, NC 27709* (05/2008 - 08/2008)
+######Fidelity Investments *4008 Chapel Hill Nelson Hwy, Durham, NC 27709* 
+######MAUI Team (05/2008 - 08/2008)
 Converting a legacy struts-based web application to Spring. Delivering enhancemnets to the MAUI middleware layer 
 that supports Fidelity's stock platform. Developing numerous Perl scripts for back-end data massaging. 
 ####Software Engineer
-######Fidelity Investments *Embassy Golf Links Business Park, Off Intermediate Ring Road, Bengaluru, Karnataka 560071, India* (06/2006 - 07/2007) 
+######Fidelity Investments *Embassy Golf Links Business Park, Off Intermediate Ring Road, Bengaluru, Karnataka 560071, India* 
+######MAUI Team (06/2006 - 07/2007) 
 Design and development of enhancements to the MAUI middleware platform which is at the backbone of Fidelity's stock
 trading platform. Technologies included core Java, J2EE and Struts.
 ####Programmer Analyst
-######Cognizant Technology Solutions *#5/535, Old Mahabalipuram Road, Okkiam -Thoraipakkam, Chennai, India * (06/2004 - 07/2006)
+######Cognizant Technology Solutions *#5/535, Old Mahabalipuram Road, Okkiam -Thoraipakkam, Chennai, India * 
+######AT&T Message Processing Division (06/2004 - 07/2006)
 As part of the AT&T client, was involved in automating storage and retrieval of Long Distance Call data using PL/SQL
 stroed procesures, shell scripts and Oracle 9iAS.
 
