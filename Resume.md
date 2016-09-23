@@ -7,12 +7,11 @@ Bothell WA 98012
 ####SDE II : 
 ######Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
 ######RDS Postgres (6/2016 - present)
-Re-architecting the RDS Control plane and perf improments to the underlying PostGres engine storage as well as tooling to test WAL records and batching of writes. Random quesry generator tool to test database workflows.
+Re-architecting the RDS Control plane and perf improvements to the underlying PostGres engine storage as well as tooling to test WAL records and batching of writes.
 ####SDE II : 
 ######Amazon.com *325 9th Ave NE, Seattle 98109*
 ######Merch.amazon.com / Woot.com (12/2015 - 6/2016)
-Key part of the design team for the new Warehouse Management System / Print Management System software v2.0 for replacing the existing system based on shirt.woot which has limited scalability. Adapting Amazon's WMS to fit the shirt production workflow as well as architecting the Print System to handle dropshipping feeds, incoming orders, communicating order status and updating the order aas it moves through the print workflow. Owned the design for a key part of the system and seeded the basic platform for others to build on.
-Also made key enhancements in the backend system as wells as the fulfillment web ui for the existing v1.0 system to support better scaling to cope up with iuncreasing demand. 
+Key part of the design team for the new Warehouse Management System / Print Management System software v2.0 for replacing the incumbent system based on shirt.woot which has limited scalability. Adapting Amazon's WMS to fit the shirt production workflow as well as architecting the Print System to handle dropshipping feeds, incoming orders, communicating order status and updating the order as it moves through the print workflow. Owned the design for a key part of the system and seeded the basic platform for others to build on. Also made key enhancements in the backend system as wells as the fulfillment web ui for the existing v1.0 system to support better scaling to cope up with iuncreasing demand. 
 ####Software Engineer II : 
 ######Microsoft Corp. *1 Microsoft Way, Redmond, WA, 98052*
 ######Onenote Developer Ecosystem Team (12/2012 - 12/2015)
