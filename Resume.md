@@ -4,16 +4,25 @@ Arun Sudhir
 Bothell WA 98012
 
 ##Experience
+####SDE II : 
+######Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
+######RDS Postgres (6/2016 - present)
+Re-architecting the RDS Control plane and perf improments to the underlying PostGres engine storage as well as tooling to test WAL records and batching of writes. Random quesry generator tool to test database workflows.
+####SDE II : 
+######Amazon.com *325 9th Ave NE, Seattle 98109*
+######Merch.amazon.com / Woot.com (12/2015 - 6/2016)
+Key part of the design team for the new Warehouse Management System / Print Management System software v2.0 for replacing the existing system based on shirt.woot which has limited scalability. Adapting Amazon's WMS to fit the shirt production workflow as well as architecting the Print System to handle dropshipping feeds, incoming orders, communicating order status and updating the order aas it moves through the print workflow. Owned the design for a key part of the system and seeded the basic platform for others to build on.
+Also made key enhancements in the backend system as wells as the fulfillment web ui for the existing v1.0 system to support better scaling to cope up with iuncreasing demand. 
 ####Software Engineer II : 
 ######Microsoft Corp. *1 Microsoft Way, Redmond, WA, 98052*
-######Onenote Developer Ecosystem Team (12/2012 - present)
+######Onenote Developer Ecosystem Team (12/2012 - 12/2015)
 Design & development of the [OneNote Api](http://dev.onenote.com) on top of ASP.NET WebApi and OData4 at 
 the front-end and Azure Queue and blobs for middleware and OneDrive and Bing as our storage/ backends.
 API integration with first and third party partners like [IFTTT](https://ifttt.com/onenote), OneNote Clipper etc. 
 Scaling and perf opimizations for larger RPS. Developing full text search, OData Integration, support for Ink, 
 Bing Integration etc. Improving performance of API page create. Mentoring new hires and interns. 
 Engineering efficiency improvements for better UT-ability (with Moq and Unity).
-####Software Development Engineer in Test: 
+####Software Development Engineer: 
 ######Microsoft Corp.*1 Microsoft Way, Redmond, WA, 98052*
 ######Microsoft Excel (02/2009 - 12/2012)
 Design and automated testing of Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
