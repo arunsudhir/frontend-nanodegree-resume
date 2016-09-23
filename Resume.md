@@ -47,9 +47,13 @@ stroed procesures, shell scripts and Oracle 9iAS.
 ####Programming languages
 C#, Core Java, Javascript, Windows phone development, Android development, J2EE, NodeJs, Perl, C
 ####Frameworks/ Scripting
-WebApi5.2, OData4.0, JQuery, HTML5/CSS, UNIX bash shell scripting
+React Native, WebApi5.2, OData4.0, JQuery, HTML5/CSS, UNIX bash shell scripting
+####IAAS/PAAS
+AWS (Dynamo, RDS, SQS, Lambda, s3) , Heroku, Azure
+####Databases
+Postgres (engine), SQL Server, DynamoDb
 ####Other
-Deployment and scaling in Azure, Heroku, Technical & personal mentoring, TFS, Git
+Technical & personal mentoring, TFS, Git
 ####GitHub profile:
 [arunsudhir](https://github.com/arunsudhir/)
 ##Education
