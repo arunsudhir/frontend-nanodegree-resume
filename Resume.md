@@ -6,8 +6,8 @@ Bothell WA 98012
 ##Experience
 ####SDE II : 
 ######Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
-######RDS Postgres (6/2016 - present)
-Re-architecting the RDS Control plane and perf improvements to the underlying PostGres engine storage as well as tooling to test WAL records and batching of writes.
+######Amazon Aurora/RDS Postgres (6/2016 - present)
+Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora. Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying PostGres engine storage as well as tooling to test WAL records and batching of writes.
 ####SDE II : 
 ######Amazon.com *325 9th Ave NE, Seattle 98109*
 ######Merch.amazon.com / Woot.com (12/2015 - 6/2016)
