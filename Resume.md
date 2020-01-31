@@ -1,7 +1,7 @@
 Arun Sudhir
 ===========
-3823 169th Pl SE,
-Bothell WA 98012  
+:house: 3823 169th Pl SE,
+Bothell WA 98012  :phone: 7035779058 :email: arunsudhir@gmail.com
 
 ## Experience
 #### SDE II : AWS
@@ -47,10 +47,9 @@ ASP.NET WebApi5.2, OData4.0, JQuery, HTML5/CSS, UNIX Shell scripting
 AWS (Dynamo, RDS, SQS, Lambda, s3) , Heroku, Azure
 #### Databases
 Postgres, SQL Server, DynamoDb
-#### Other
-Technical & personal mentoring, TFS, Git
 #### GitHub profile:
 [arunsudhir](https://github.com/arunsudhir/)
+
 ## Education
 
 #### Masters in Computer Science 
