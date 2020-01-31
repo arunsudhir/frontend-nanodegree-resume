@@ -1,7 +1,7 @@
 Arun Sudhir
 ===========
-:house: 3823 169th Pl SE,
-Bothell WA 98012  :phone: 7035779058 :email: arunsudhir@gmail.com
+3823 169th Pl SE,
+Bothell WA 98012  Phone: 7035779058 Email: arunsudhir@gmail.com
 
 ## Experience
 #### SDE II : AWS
