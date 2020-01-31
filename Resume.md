@@ -3,13 +3,13 @@ Arun Sudhir
 3823 169th Pl SE,
 Bothell WA 98012  
 
-## Experience  
-#### SDE II : AWS  
+## Experience
+#### SDE II : AWS
 ###### Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
 ###### AWS Enterprise Identity & Auth (6/2018- Present)
-Working on a next-generation enterprise authentication project involving Fingerprint and Facial recognition, FIDO2, TPM2and Openssl.  
+Working on bootstrapping and POC-ing a next-generation enterprise authentication project involving Fingerprint and Facial recognition, FIDO2, TPM2and Openssl.  
 
-#### SDE II : AWS  
+#### SDE II : AWS
 ###### Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
 ###### Amazon Aurora/RDS Postgres (6/2016 - 6/2018), Identity & Auth (6/2018- Present)
 Owned, led and drove development, testing and deployment of the entire externsions ecosystem Amazon Aurora (Postgres) and RDS Postgres. Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora. Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes.
