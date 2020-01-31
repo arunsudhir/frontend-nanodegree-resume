@@ -4,15 +4,21 @@ Arun Sudhir
 Bothell WA 98012  
 
 ## Experience  
-#### SDE II :   
+#### SDE II : AWS  
 ###### Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
-###### Amazon Aurora/RDS Postgres (6/2016 - present)
-Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora. Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying PostGres engine storage as well as tooling to test WAL records and batching of writes.
-#### SDE II : 
+###### AWS Enterprise Identity & Auth (6/2018- Present)
+Working on a next-generation enterprise authentication project involving Fingerprint and Facial recognition, FIDO2, TPM2and Openssl.  
+
+#### SDE II : AWS  
+###### Amazon Web Services *1918 8th Ave, Seattle, WA 98101*
+###### Amazon Aurora/RDS Postgres (6/2016 - 6/2018), Identity & Auth (6/2018- Present)
+Owned, led and drove development, testing and deployment of the entire externsions ecosystem Amazon Aurora (Postgres) and RDS Postgres. Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora. Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes.
+
+#### SDE II : AWS
 ###### Amazon.com *325 9th Ave NE, Seattle 98109*
 ###### Merch.amazon.com / Woot.com (12/2015 - 6/2016)
 Key part of the design team for the new Warehouse Management System / Print Management System software v2.0 for replacing the incumbent system based on shirt.woot which has limited scalability. Adapting Amazon's WMS to fit the shirt production workflow as well as architecting the Print System to handle dropshipping feeds, incoming orders, communicating order status and updating the order as it moves through the print workflow. Owned the design for a key part of the system and seeded the basic platform for others to build on. Also made key enhancements in the backend system as wells as the fulfillment web ui for the existing v1.0 system to support better scaling to cope up with iuncreasing demand. 
-#### Software Engineer II : 
+#### Software Engineer II : Microsoft
 ###### Microsoft Corp. *1 Microsoft Way, Redmond, WA, 98052*
 ###### Onenote Developer Ecosystem Team (12/2012 - 12/2015)
 Design & development of the [OneNote Api](http://dev.onenote.com) on top of ASP.NET WebApi and OData4 at 
@@ -21,7 +27,7 @@ API integration with first and third party partners like [IFTTT](https://ifttt.c
 Scaling and perf opimizations for larger RPS. Developing full text search, OData Integration, support for Ink, 
 Bing Integration etc. Improving performance of API page create. Mentoring new hires and interns. 
 Engineering efficiency improvements for better UT-ability (with Moq and Unity).
-#### Software Development Engineer: 
+#### Software Development Engineer: Microsoft
 ###### Microsoft Corp.*1 Microsoft Way, Redmond, WA, 98052*
 ###### Microsoft Excel (02/2009 - 12/2012)
 Design and automated testing of Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
