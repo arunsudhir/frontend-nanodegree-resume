@@ -4,13 +4,22 @@ Arun Sudhir
 Bothell WA 98012  Phone: 7035779058 Email: arunsudhir@gmail.com
 
 ## Experience
-#### SDE II : AWS
+#### Senior SDE : AWS
 ###### AWS Enterprise Identity & Auth (6/2018- Present)
-Working on bootstrapping and POC-ing a next-generation enterprise authentication project involving Fingerprint and Facial recognition, FIDO2, TPM2and Openssl.  
+Pricipal architect and developer of an amazon-wide MFA project for MacOS and Windows utlizing FIDO2.
+Developed a successful POC and drove a cross-organizational pilot of the MFA module and service 
+Design and oversee multiple projects including a Monolith - AWS Microservice migration.
+Influencing and provding feedback on system designs across the org.
+Champion operational excellence and long-term ticket reduction strategies.
+Hiring, mentoring and developing junior and mid-tier engineers in the team.
+Helping lay long-term roadmap and vision for the Enterprise authentication team with management.
 
 #### SDE II : AWS
 ###### Amazon Aurora/RDS Postgres (6/2016 - 6/2018), Identity & Auth (6/2018- Present)
-Owned, led and drove development, testing and deployment of the entire externsions ecosystem Amazon Aurora (Postgres) and RDS Postgres. Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora. Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes.
+Owned, led and drove development, testing and deployment of the entire extensions ecosystem Amazon Aurora (Postgres) and RDS Postgres.
+Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora.
+Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes.
+Contribute to back-end development of critical features like Aurora serverless and survivable buffer cache.
 
 #### SDE II : AWS
 ###### Merch.amazon.com / Woot.com (12/2015 - 6/2016)
@@ -40,7 +49,7 @@ Automating storage and retrieval of Long Distance Call data using PL/SQL stored 
 ## Skills
 
 #### Programming languages
-C#, Java, C, Perl, Javascript, Python, J2EE, NodeJs
+Java, C#, C, Perl, Javascript/nodejs, Swift, Python 
 #### Frameworks/ Scripting
 ASP.NET WebApi5.2, OData4.0, JQuery, HTML5/CSS, UNIX Shell scripting
 #### IAAS/PAAS
