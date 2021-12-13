@@ -6,10 +6,10 @@ Bothell WA 98012  Phone: 7035779058 Email: arunsudhir@gmail.com
 ## Experience
 #### Senior SDE : AWS
 ###### AWS Enterprise Identity & Auth (6/2018- Present)
-Pricipal architect and developer of an amazon-wide MFA project for MacOS and Windows utlizing FIDO2.
+Principal architect and developer of an amazon-wide MFA project for MacOS and Windows utilizing FIDO2.
 Developed a successful POC and drove a cross-organizational pilot of the MFA module and service 
 Design and oversee multiple projects including a Monolith - AWS Microservice migration.
-Influencing and provding feedback on system designs across the org.
+Influencing and providing feedback on system designs across the org.
 Champion operational excellence and long-term ticket reduction strategies.
 Hiring, mentoring and developing junior and mid-tier engineers in the team.
 Helping lay long-term roadmap and vision for the Enterprise authentication team with management.
@@ -19,26 +19,26 @@ Helping lay long-term roadmap and vision for the Enterprise authentication team 
 Owned, led and drove development, testing and deployment of the entire extensions ecosystem Amazon Aurora (Postgres) and RDS Postgres.
 Bootstrap developer for Amazon Aurora, helped design and implement several engine and control plane features.
 Enhancements to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes. Contribute to back-end development of critical features like Aurora serverless and survivable buffer cache.
-Mentoring junior and mid-tier developers and contribute heavily to team desgn reviews.
+Mentoring junior and mid-tier developers and contribute heavily to team design reviews.
 
 #### SDE II : AWS
 ###### Merch.amazon.com / Woot.com (12/2015 - 6/2016)
-Key part of the design team for the new Warehouse Management System / Print Management System software v2.0 for replacing the incumbent system based on shirt.woot which has limited scalability. Adapting Amazon's WMS to fit the shirt production workflow as well as architecting the Print System to handle dropshipping feeds, incoming orders, communicating order status and updating the order as it moves through the print workflow. Owned the design for a key part of the system and seeded the basic platform for others to build on. Also made key enhancements in the backend system as wells as the fulfillment web ui for the existing v1.0 system to support better scaling to cope up with iuncreasing demand. 
+Key part of the design team for the new Warehouse Management System / Print Management System software v2.0 for replacing the incumbent system based on shirt.woot which has limited scalability. Adapting Amazon's WMS to fit the shirt production workflow as well as architecting the Print System to handle dropshipping feeds, incoming orders, communicating order status and updating the order as it moves through the print workflow. Owned the design for a key part of the system and seeded the basic platform for others to build on. Also made key enhancements in the backend system as wells as the fulfillment web ui for the existing v1.0 system to support better scaling to cope up with increasing demand. 
 #### Software Engineer II : Microsoft
 ###### Onenote Developer Ecosystem Team (12/2012 - 12/2015)
 Design & development of the [OneNote Api](http://dev.onenote.com) on top of ASP.NET WebApi and OData4 at 
 the front-end and Azure Queue and blobs for middleware and OneDrive and Bing as our storage/ backends.
 API integration with first and third party partners like [IFTTT](https://ifttt.com/onenote), OneNote Clipper etc. 
-Scaling and perf opimizations for larger RPS. Developing full text search, OData Integration, support for Ink, 
+Scaling and perf optimizations for larger RPS. Developing full text search, OData Integration, support for Ink, 
 Bing Integration etc. Improving performance of API page create. Mentoring new hires and interns. 
 Engineering efficiency improvements for better UT-ability (with Moq and Unity).
 #### Software Development Engineer: Microsoft
 ###### Microsoft Excel (02/2009 - 12/2012)
-Design, dveelopment and automated testing of feature enhancements to Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
+Design, development and automated testing of feature enhancements to Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
 support in Excel with SQL team. Performance driver for all data access features in Excel.
 #### Technical Intern : Fidelity Investments
 ###### MAUI Team (05/2008 - 08/2008)
-Converting a legacy struts-based web application to Spring. Delivering enhancemnets to the MAUI middleware layer that supports Fidelity's stock platform. Developing numerous Perl scripts for back-end data massaging. 
+Converting a legacy struts-based web application to Spring. Delivering enhancements to the MAUI middleware layer that supports Fidelity's stock platform. Developing numerous Perl scripts for back-end data massaging. 
 #### Software Engineer: Fidelity Investments
 ###### MAUI Team (06/2006 - 07/2007) 
 Design and development of enhancements to the MAUI middleware platform which is at the backbone of Fidelity's stock trading platform. Technologies included core Java, J2EE and Struts.
