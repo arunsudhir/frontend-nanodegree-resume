@@ -17,9 +17,9 @@ Helping lay long-term roadmap and vision for the Enterprise authentication team 
 #### SDE II : AWS
 ###### Amazon Aurora/RDS Postgres (6/2016 - 6/2018), Identity & Auth (6/2018- Present)
 Owned, led and drove development, testing and deployment of the entire extensions ecosystem Amazon Aurora (Postgres) and RDS Postgres.
-Re-architecting all the postgresql extensions to support Aurora, developing and testing them for Aurora.
-Enhancemnets to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes.
-Contribute to back-end development of critical features like Aurora serverless and survivable buffer cache.
+Bootstrap developer for Amazon Aurora, helped design and implement several engine and control plane features.
+Enhancements to the RDS Control plane for Postgres and Aurora and perf improvements to the underlying Postgres engine storage as well as tooling to test WAL records and batching of writes. Contribute to back-end development of critical features like Aurora serverless and survivable buffer cache.
+Mentoring junior and mid-tier developers and contribute heavily to team desgn reviews.
 
 #### SDE II : AWS
 ###### Merch.amazon.com / Woot.com (12/2015 - 6/2016)
@@ -34,7 +34,7 @@ Bing Integration etc. Improving performance of API page create. Mentoring new hi
 Engineering efficiency improvements for better UT-ability (with Moq and Unity).
 #### Software Development Engineer: Microsoft
 ###### Microsoft Excel (02/2009 - 12/2012)
-Design and automated testing of Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
+Design, dveelopment and automated testing of feature enhancements to Pivot Tables, Slicers, co-development of features like PowerPivot, OLAP 10.0 
 support in Excel with SQL team. Performance driver for all data access features in Excel.
 #### Technical Intern : Fidelity Investments
 ###### MAUI Team (05/2008 - 08/2008)
@@ -49,13 +49,13 @@ Automating storage and retrieval of Long Distance Call data using PL/SQL stored 
 ## Skills
 
 #### Programming languages
-Java, C#, C, Perl, Javascript/nodejs, Swift, Python 
+Java, C#, C, Javascript/nodejs, Swift, Python 
 #### Frameworks/ Scripting
-ASP.NET WebApi5.2, OData4.0, JQuery, HTML5/CSS, UNIX Shell scripting
+Spring, ASP.NET WebApi5.2, OData4.0, JQuery, HTML5/CSS, bash Shell scripting, Perl
 #### IAAS/PAAS
-AWS (Dynamo, RDS, SQS, Lambda, s3) , Heroku, Azure
-#### Databases
-Postgres, SQL Server, DynamoDb
+AWS, Heroku, Azure
+#### Databases/NoSQL
+Postgres, SQL Server, DynamoDb, Redis
 #### GitHub profile:
 [arunsudhir](https://github.com/arunsudhir/)
 
